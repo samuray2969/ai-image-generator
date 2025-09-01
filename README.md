@@ -1,7 +1,25 @@
-# Build and Deploy a Full Stack MERN AI Image Generation App  MidJourney & DALL E Clone
-![Image Generation App](https://i.ibb.co/p0f27C2/Thumbnail-9.png)
+# AI Image Generator 🎨
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+A full-stack MERN app that generates AI images using the OpenAI API.
 
-### Launch your development career with project-based coaching - https://www.jsmastery.pro
+## Features
+- Generate images from text prompts
+- Save generated images to the database
+- Browse and share generated images
+- Responsive UI with Tailwind CSS
+
+## Tech Stack
+- MongoDB
+- Express.js
+- React.js (Vite)
+- Node.js
+- Tailwind CSS
+
+## Setup
+
+### Client
+```bash
+cd client
+npm install
+npm run dev
+
